@@ -1,0 +1,4 @@
+<launch>
+  <!-- Launch the topics_project_node -->
+  <node name="topics_project_node" pkg="topics_project" type="topics_project_node" output="screen" />
+</launch>
